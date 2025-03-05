@@ -3,7 +3,7 @@ public class Teste {
 
 	public static void main(String[] args) {
 		 
-		int indice = 3;
+		int indice = 13;
 		int soma = 0;
 		int k = 0;
 		
